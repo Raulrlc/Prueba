@@ -19,6 +19,7 @@ public class JavaApplication3 {
         System.out.println("Hola, mundo\n");
         int a=5;
         int b=6;
+        int c=7;
     }
     
 }
