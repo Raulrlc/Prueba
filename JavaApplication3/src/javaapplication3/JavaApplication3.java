@@ -22,6 +22,7 @@ public class JavaApplication3 {
         int c=7;
         int d=8;
         System.out.println("hola\n");
+        System.out.println("asdfñlkajsdf\n");
     }
     
 }
