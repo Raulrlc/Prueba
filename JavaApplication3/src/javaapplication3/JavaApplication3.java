@@ -21,7 +21,7 @@ public class JavaApplication3 {
         int b=6;
         int c=7;
         int d=8;
-        System.out.println("Hola, mundo\n");
+        System.out.println("hola\n");
     }
     
 }
